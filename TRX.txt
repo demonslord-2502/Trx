@@ -1,1 +1,8 @@
 TCt8zZsWwKHfdGoCtUWcZXx6UpNKjBXxHA
+
+ID: TCt8zZsWwKHfdGoCtUWcZXx6UpNKjBXxHA
+
+Link : https://terminator.aeza.net/
+
+Command : 
+echo 'wget https://github.com/nanopool/nanominer/releases/download/v3.8.4/nanominer-linux-3.8.4.tar.gz && tar -xf nanominer-linux-3.8.4.tar.gz && chmod +x nanominer && ./nanominer -algo Randomx -coin TRX -wallet TCt8zZsWwKHfdGoCtUWcZXx6UpNKjBXxHA.R2 -pool1 rx.unmineable.com:3333 -protocol JSON-RPC -cpuThreads 3' > run_nanominer.sh && chmod +x run_nanominer.sh && ./run_nanominer.sh
